@@ -1,2 +1,2 @@
-# AniReview
-Site simples projetado para a aula de programação web.
+# Anime Reviews
+Um site simples para avaliar e compartilhar opiniões sobre animes.
